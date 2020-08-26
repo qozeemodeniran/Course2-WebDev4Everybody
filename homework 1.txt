@@ -1,0 +1,36 @@
+Homework One: Creating an External Style Sheet
+**This homework is also described in a video lecture. Make sure to watch it to get a better feel for what I am looking for.
+
+Objectives:
+Create a style sheet and link it to the html files. (Without changing the html.)
+Style the sheet using the properties color, background-color, text-align, text-transform, and/or display
+Background:
+In this assignment I have created a three page website about a game called Ultimate, or Ultimate Frisbee. We are going to use this site for all three assignments in this course. You can view the “before” site by visiting http://intro-webdesign.com/CSS/assignment-1/index.html and clicking on the Home, Teams, and History links. You can see the styled pages here: (Obviously I can't give you a link, otherwise you could see my style sheet!!)
+
+http://intro-webdesign.com/CSS/assignment-1/index.jpg
+http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg
+http://www.intro-webdesign.com/CSS/assignment-1/history.jpg
+Getting started:
+You will need to get the code to get started. You can do ONE OF THESE TWO THINGS:
+
+Find the code at CodePen:
+http://codepen.io/ColleenEMc/pen/WQXdeQ (index.html)
+http://codepen.io/ColleenEMc/pen/NGwXWG (history.html)
+http://codepen.io/ColleenEMc/pen/ZbavEK (teams.html)
+When you peer grade, you can put the CSS code directly in to the CSS section of CodePen to grade the assignment
+
+2. (Advanced): Download the zip file from http://intro-webdesign.com/CSS/assignment-1.zip (When you click on this link it will automatically download the a zip file. Mac extracts the files automatically, if you are running Windows you will need to extract them with extra software. When you peer grade, you can put the CSS code directly into the css folder. Make sure to save a copy or your code so you don't lose it!!
+
+Steps:
+Create a file called hw1.css and save it in your css folder.
+Follow the instructions to see which elements you should style. BE SURE TO USE GOOD PRACTICES, for instance, using hex or rgb, not color names.
+I have included a video showing examples of each of these styles.
+
+Submission
+Submit your css file. (If you used CodePen to create your code, save a copy in a file called hw1.css.)
+Use the peer grader to assess the work of your fellow students.
+Don't forget this first assignment is intended to get us out to a nice, slow start. So grade accordingly. But make sure to give feedback if something is wrong, we don’t want to start off with bad code.
+
+Before
+
+After

@@ -1,0 +1,127 @@
+body{
+	padding: 30px;
+	margin: 30px;
+}
+
+header{
+	background: #657490 url("../images/flywheel.jpg") no-repeat;
+	background-size: 100%;
+	padding: 20px;
+}
+
+nav{
+	text-align: center;
+
+}
+nav a{
+	display: inline-block;
+	width: 16%;
+	margin: 20px;
+	padding: 10px;;
+	border-radius: 4px;
+	font-size: 100%;
+	text-decoration: none;
+	color: #000000;
+	opacity: 0.7;
+}
+
+.active{
+	background: #FFFFFF;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #000000;
+	text-transform: capitalize;
+}
+
+section{
+	background-color: #5F9EA0;
+}
+
+a {
+	color: #FF0000;
+	background-color: #B0E0E6;
+
+}
+
+.left{
+	/*float: left;
+	width: 120px;
+	height: 100%;
+	margin-top: -20px;
+	margin-right: 30px;
+	background-color: #673846;*/
+}
+
+aside img{
+	float: left;
+	width: 120px;
+	height: 250px;
+	margin-top: -20px;
+	margin-right: 30px;
+	background-color: #673846;
+	display: inline-block;
+	padding: 20px;
+	border: 1px solid #000000;
+	clear: both;
+	/*line-height: 50px;*/
+}
+
+section{
+	background: #FFFFFF
+}
+
+ul li a{
+	list-style-type: circle;
+}
+
+img{
+	border: 1px solid #000000;
+}
+
+.right{
+	margin-right: 40px;
+}
+
+th{
+	color: #FFFFFF;
+	background: #342097;
+	padding: 10px;
+	border: 3px solid #546729;
+	border-bottom: 5px solid #546729;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+th:first-child{
+	text-align: left;
+}
+
+td{
+	opacity: 0.9;
+	background: #542671;
+	padding: 10px;
+	font-size: 30px;
+}
+
+td:second-child{
+	text-align: center;
+}
+
+tr:hover{
+	opacity: 0.8;
+}
+
+td:nth-of-type(2){
+	text-align: center;
+}
+
+td:nth-of-type(3){
+	text-align: center;
+}
